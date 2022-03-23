@@ -1,3 +1,3 @@
 # Tabuada
 
-# digite o valor de qualquer numero e o resultado será a tabuada de qualquer numero
+# digite o qualquer numero e o resultado será a tabuada desse numero.
